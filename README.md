@@ -1,17 +1,15 @@
 # Rhythm Jain 👋
 ### Web Developer | Python Developer | AI Tools & ChatGpt Expert | Delhi, India 🌏
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Rishh2005&color=0891b2&style=flat-square)](https://github.com/Rishh2005)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rhythm2125&color=0891b2&style=flat-square)](https://github.com/Rhythm2125)
 
 ---
 
 ## 🚀 About Me
 Passionate AI developer and technology enthusiast with a strong foundation in machine learning and full-stack development. I transform complex problems into elegant solutions through code.
 
-- 🔭 Currently working on cutting-edge AI/ML projects
+- 🔭 Currently working on Web Developement Projects
 - 🌱 Expanding my knowledge in: Advanced ML Architectures & Cloud Computing
-- 💡 Interested in: Deep Learning, Computer Vision, and Natural Language Processing
-- 🤝 Looking to collaborate on: Innovative AI projects and open-source initiatives
 - 📧 Contact me at: [rhythmjain.2005@gmail.com](mailto:rhythmjain.2005@gmail.com)
 - 🌙 Fun fact: Night owl who believes the best code is written after midnight!
 

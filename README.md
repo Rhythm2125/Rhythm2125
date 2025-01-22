@@ -79,16 +79,6 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
   </a>
 </div>
 
-<div align="center" style="max-width: 100%; overflow-x: auto;">
-  <a href="http://www.github.com/Rihythm2125" target="_blank" rel="noreferrer">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Rhythm2125&stroke=0891b2&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakNum=ffffff&currStreakLabel=3b82f6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
-      alt="GitHub Streak Stats" 
-      style="width: 100%; max-width: 500px; height: auto;"
-    />
-  </a>
-</div>
-
 <div align="center">
   <a href="https://github.com/Rhythm2125">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhythm2125&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />

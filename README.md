@@ -1,5 +1,5 @@
 # Rhythm Jain 👋
-### Web Developer | Python Developer | AI Tools & ChatGpt Expert | Delhi, India 🌏
+### Web Developer | Full Stacks Developer | Python Developer | CyberSecurity Expert | AI Tools & Chatgpt Expert | Delhi, India 🌏
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Rhythm2125&color=0891b2&style=flat-square)](https://github.com/Rhythm2125)
 

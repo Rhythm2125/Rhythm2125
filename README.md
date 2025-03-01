@@ -9,10 +9,10 @@
 Passionate AI developer and technology enthusiast with a strong foundation in machine learning and full-stack development. I transform complex problems into elegant solutions through code.
 <img align="right" alt="Coding" width="330" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVxZjVwcDFvZnJ3aWUxa2E3OGoxcHl1YnlycGFnMDVyejdxZmVtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EOmYN5kVP3W2Lyn6dx/giphy.gif"/>
 
-- 🔭 Currently working on Web Developement & Android Developement Projects
-- 🌱 Expanding my knowledge in: Advanced AI Architectures & Cloud Computing
-- 🤝 Open to collaborate on: Innovative AI projects, open-source initiatives & hackathons
-- 💼 View My 👉[Portfolio](https://rhythmjainportfolio.vercel.app/)👈
+- 🔭 Currently working on Web Developement & Android Developement Projects.
+- 🤝 Open to collaborate on: Innovative AI projects, open-source initiatives & hackathons.
+- 🧑🏻‍💻 I am available for freelance work. Connect with me Via Email or Social Media.
+- 💼 My [Personal Portfolio Website](https://rhythmjainportfolio.vercel.app/)
 - 📧 Reach me at: [rhythmjain.2005@gmail.com](mailto:rhythmjain.2005@gmail.com)
 - 🌙 Fun fact: Night owl who believes the best code is written after midnight!
 - 💪 Motto: "Turning Coffee into Code and Data into Intelligence"

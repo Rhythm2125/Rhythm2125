@@ -14,7 +14,7 @@ A Passionate Developer, **Turning ideas into reality.**
 - 🌐 My [Personal Portfolio Website](https://rhythmjainportfolio.vercel.app/)
 - 📧 Reach me at: [rhythmjain.2005@gmail.com](mailto:rhythmjain.2005@gmail.com)
 - 🌙 Fun fact: Night owl who believes the best code is written after midnight!
-- 💪 Motto: "Turning Coffee into Code and Data into Intelligence"
+- 💪 Motto: "Turning Coffee into Code and Ideas into Reality" ☕💡
 
 ## 💻 Tech Stack
 
@@ -36,17 +36,25 @@ A Passionate Developer, **Turning ideas into reality.**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### 🗄 Database Technologies
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### ☁ Cloud & Development Tools
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🎮 Game Development
 ![Panda3D](https://img.shields.io/badge/Panda3D-003B57?style=for-the-badge&logo=panda3d&logoColor=white)
@@ -97,11 +105,11 @@ A Passionate Developer, **Turning ideas into reality.**
 ---
 
 <div align="center">
-  <b>🌟 If you like my work, consider following and starring some repositories! 🌟</b>
+  <b>🔥 Love what you see? Follow me and star my repositories! 🔥</b>
 </div>
 
 ---
 
 <div align="center">
-  <i>Happy Coding! </i>
+  <i>Happy Coding! 🚀</i>
 </div>
